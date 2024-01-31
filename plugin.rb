@@ -1,7 +1,7 @@
-# name: allowiframe
+# name: discourse-allowiframe
 # about: Changes X-Frame-Options so the site can be embedded
-# version: 1.1
-# authors: bex-team, riking,
+# version: 1.1.1
+# authors: michaelball
 
 after_initialize do
   # Directly modify the discourse rails defaults
